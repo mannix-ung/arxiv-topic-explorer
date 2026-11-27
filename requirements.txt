@@ -3,3 +3,4 @@ feedparser
 pandas
 matplotlib
 bertopic
+ipywidgets
